@@ -5,7 +5,7 @@
 
 1. To Get Started, Clone this repository to a desired location of your choice
     ```bash
-       git clone https://github.com/Fato07/SpamMail-Classifier.git
+       git clone https://github.com/Fato07/VigereCipher_Cracker.git
    ```
 2. Open up Terminal/Command Prompt and cd into the directory this file is in.
 3. Type python ```Vigenere_cipher.py``` and hit Enter.
